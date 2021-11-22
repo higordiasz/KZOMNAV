@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "awkVyhtboP/c02oN+bcGIwK4alygDg+4seZMw+HxMGqly3Bk/zpYBPByvhJ6m9ZvkAuPVGw5ev5DSp3H45ID1Q==",
+  "success": true,
+  "projectFilePath": "D:\\Projetos\\Arka\\Arka Bot\\KZOMNAV\\KZOMNAV.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dias\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Dias\\.nuget\\packages\\selenium.support\\4.0.0\\selenium.support.4.0.0.nupkg.sha512",
+    "C:\\Users\\Dias\\.nuget\\packages\\selenium.webdriver\\4.0.0\\selenium.webdriver.4.0.0.nupkg.sha512",
+    "C:\\Users\\Dias\\.nuget\\packages\\selenium.webdriver.chromedriver\\95.0.4638.1700\\selenium.webdriver.chromedriver.95.0.4638.1700.nupkg.sha512",
+    "C:\\Users\\Dias\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\3.1.14\\microsoft.netcore.app.runtime.win-x86.3.1.14.nupkg.sha512",
+    "C:\\Users\\Dias\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\3.1.14\\microsoft.windowsdesktop.app.runtime.win-x86.3.1.14.nupkg.sha512",
+    "C:\\Users\\Dias\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\3.1.14\\microsoft.aspnetcore.app.runtime.win-x86.3.1.14.nupkg.sha512"
+  ],
+  "logs": []
+}
